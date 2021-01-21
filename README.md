@@ -1,2 +1,2 @@
 # Farming_Turtle
-list for project Smart Farm
+Need for a self rebooting space aware minecraft turtle that will detect the crops underneth and replant them 
